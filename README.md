@@ -1,4 +1,6 @@
-# My-Style main directory
+# My-Style main directory 
+
+Please note that this is a work in progress.
 
 [Figma Link](https://www.figma.com/file/nww1OX1crsE7EM0XWsWXJp/Clothing-App?node-id=0%3A1)
 
