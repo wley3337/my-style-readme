@@ -9,6 +9,8 @@
 
 ## Backend
 
+[Rails with PostgreSQL](https://github.com/wley3337/my-style-rails)
+
 [Python with PostgreSQL](https://github.com/wley3337/my-style-python) <-- Paused
 
-[Rails with PostgreSQL](https://github.com/wley3337/my-style-rails)
+
